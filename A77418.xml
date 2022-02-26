@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe declaration of the reasons that moved King James of blessed memory, and the state, to erect a colledge of divines, and other learned men at Chelsey. Together with a copy of His Majesties letters in favouring the same. And an addition of some motives forcible to excite good Christians zeale to a voluntary and liberall contribution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77418</idno>
+            <idno type="STC">Wing B4564</idno>
+            <idno type="STC">Thomason E324_12</idno>
+            <idno type="STC">ESTC R200614</idno>
+            <idno type="EEBO-CITATION">99861317</idno>
+            <idno type="PROQUEST">99861317</idno>
+            <idno type="VID">113449</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77418)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113449)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E324[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe declaration of the reasons that moved King James of blessed memory, and the state, to erect a colledge of divines, and other learned men at Chelsey. Together with a copy of His Majesties letters in favouring the same. And an addition of some motives forcible to excite good Christians zeale to a voluntary and liberall contribution.</title>
+                  <author>England and Wales. Sovereign (1603-1624 : James I).</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.P. for Nicholas Bourne.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645. [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has publication year 1645[6]; Thomason catalogue lists under 1646.</note>
+                  <note>Annotation on Thomason copy: "feb: 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chelsea College --  History --  Early works to 1800.</term>
+               <term>Universities and colleges --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113449:1" rendition="simple:additions"/>
+            <p>A briefe DECLARATION OF The Reaſons that moved King JAMES of bleſſed memory, and the STATE, to erect a Colledge of Divines, and other Learned men at CHELSEY.</p>
+            <p>Together with a Copy of His Majeſties Letters in favouring the ſame.</p>
+            <p>And an addition of ſome MOTIVES forcible to excite good Chriſtians zeale to a voluntary and liberall Contribution.</p>
+            <figure/>
+            <p>LONDON, Printed by <hi>E.P.</hi> for <hi>Nicholas Bourne.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:113449:2"/>
+            <head>A briefe Declaration of the Reaſons that moved King JAMES of bleſſed memorie and the State, to erect a Colledge of Divines, and other Learned men, at CHELSEY.</head>
+            <p>
+               <seg rend="decorInit">V</seg>Nderſtanding by experience, that want of information hath much hindred mens devotion in contributing toward the erection and dotation of <hi>Chelſey</hi> Colledge, we have thought it verie fit, together with his Majeſties Letters, ſeconded by my Lord Archbiſhop of <hi>Canterburie,</hi> to de<g ref="char:EOLhyphen"/>clare the reaſons that cauſed this worke to be undertaken, and to adde ſuch Motives, as we have ſuppoſed may be moſt effectuall to give ſatisfaction to his Majeſties deſire, and perfection to this honourable deſigne.</p>
+            <p>Firſt it was conſidered, that the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>opes Agents travelled Sea and Land, wrote bookes in favour of their faction, deviſed lyes and ſlanders, to bring Religion and the Profeſſors thereof into hatred, and not ſparing any ſtand<g ref="char:EOLhyphen"/>ing in their way, by falſhood and treacherie oppugned Kings and Princes, that could not endure the Popes tyrannicall government. And for this end, men of readie wits, good ſpeech, long experience, and competent learning, have beene maintained in Colledges, furniſhed with Bookes, holpen with Counſell and directions, bound with Lawes and Oathes, to uphold the Pa<g ref="char:EOLhyphen"/>pall Hierarchie and Hereſie, and which moveth much, encouraged with great promiſes and large rewards.</p>
+            <p>Whereunto albeit private men piouſly affected have from time to time oppoſed themſelves, yet becauſe they wanted encouragement to undertake fo great a labour, counſell of their Ancients to direct them, Bookes and Libraries to inſtruct them, formes of proceeding to keep them in compaſſe, and rewards to maintaine them, thoſe excepted that are due for Eccleſiaſti<g ref="char:EOLhyphen"/>call cures, it was further adviſed, that to make a ſufficient defence for the truth of Religion, &amp; honour of the State, and a ſtrong and continuall oppo<g ref="char:EOLhyphen"/>ſition againſt the continued lyes, ſlanders, errors, hereſies, ſects, idolatries, and blaſphemies of our Adverſaries, it was neceſſarie to unite our forces, and to appoint ſpeciall men, that without other diſtraction might attend the
+<pb n="3" facs="tcp:113449:2"/>cauſe of Religion and the State, being furniſhed with Directions, Inſtru<g ref="char:EOLhyphen"/>ctions, Counſell, Bookes, Preſſes, competent maintenance, and other ne<g ref="char:EOLhyphen"/>ceſſaries.</p>
+            <p>This then was the reaſon why this Colledge by his Majeſty and the State was firſt deſigned, and a corporation granted with large priviledges, <hi>viz.</hi> That a ſelect number of Divines and others ſhould be gathered together into one body, and united with one form of Lawes, and there maintained, who being furniſhed with Bookes, and directed by men of experience and action, might alwaies be ready to maintaine our Chriſtian faith, to anſwer the Adverſaries Calumniations as well againſt Religion as the State, to de<g ref="char:EOLhyphen"/>fend the Majeſty of Kings and Princes, againſt the uſurpation of Popes, the liberty of Chriſtians, againſt the yoke of Superſtition, to ſupply the de<g ref="char:EOLhyphen"/>fect of teaching where Appropriations have devoured the Miniſterie, by teaching and conference to convince the obſtinate Papiſt and Atheiſt, and by all lawfull meanes to maintaine truth, and diſcover falſhood.</p>
+            <p>This is the Colledge commended by his Majeſtie, and intended by the State, and eaſily to be pefected if it pleaſe all true Chriſtians to further it with their help and favour, according to ſome proportion of their meanes. His Majeſties Letters directed to my Lord of <hi>Canterburie,</hi> follow in theſe words:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Right truſty and wel-beloved Councellour, we greet you well.</salute>
+                  </opener>
+                  <p>VVHereas the enemies of the Goſpell have ever beene forward to write, and publiſh bookes for confirming of erroneous doctrine, and impugning the truth, and now of late ſeeme more carefull then before to ſend daily into our Realmes ſuch their writings, whereby our loving Subjects, though otherwiſe well diſpoſed might be ſeduced, unleſſe ſome remedie thereof ſhould be provided. We by the advice of our Councell have lately granted a Corporation, and given our allowance for erecting a Colledge at <hi>Chelſey,</hi> for learned Divines to be imployed to write as occaſion ſhall require for maintaining the Religion profeſſed in our Kingdomes, and confuting the impugners thereof. Whereupon Doctor <hi>Sutcliffe</hi> deſigned Provoſt of the ſaid Colledge, hath now humbly ſignified unto us, that upon divers promiſes of helpe and aſſiſtance towards the erecting and endowing the ſaid Colledge he hath at his owne charge begun, and well proceeded in the building, as doth ſufficiently appeare by a good part thereof alreadie ſet up in the place appoynted for the ſame. We therefore being willing to favour and further ſo religious a worke, will and require you to write your Letters to the Biſhops of your Province, ſignifying unto them in our Name, that our pleaſure is, they deal with the Clergie, and other of their Dioceſſe, to give their charitable benevo<g ref="char:EOLhyphen"/>lence for the perfecting of this good worke ſo well begun. And for the better per<g ref="char:EOLhyphen"/>formance
+<pb n="4" facs="tcp:113449:3"/>of our deſire, we have given order to the ſaid Provoſt and his Aſſoci<g ref="char:EOLhyphen"/>ates to attend you and others unto whom it may appertaine, and to certifie us from time to time of their proceeding.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Thetford</hi> 
+                        <date>the <hi>5</hi> of <hi>May, 1616.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Theſe Letters my Lord Archbiſhop of <hi>Canturburie</hi> ſendeth abroad to the Biſhops of his Province, and ſecondeth them in theſe termes:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>NOw becauſe it is ſo pious and religious a worke, conducing both to <hi>GODS</hi> glory, and the ſaving of many a ſoule within this Kingdome, I cannot but wiſh that all devout and wel-affected perſons ſhould by your ſelfe and the Prea<g ref="char:EOLhyphen"/>chers in your Dioceſſe, as well publikely as otherwiſe, be excited to contribute in ſome meaſure to ſo holy an intendment now well begun. And although theſe and the like motions have beene frequent in theſe latter times, yet let not thoſe whom God hath bleſſed with any wealth be wearie of wel-doing, that it may not be ſaid that the idolatrous and ſuperſtitious Papists be more forward to advance their falſhoods, then we are to maintaine Gods Truth. Whatſoever is collected, I pray your Lordſhip may be carefully brought unto me; partly that it paſſe not thorow any defrauding hand, and partly that his Majeſtie may be acquainted what is done in this behalfe.</p>
+                  <closer>
+                     <signed>Your Lordſhips very loving Brother <hi>G. Canterb.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>The like Letters are written to my Lord Chancellour, and my Lord Maior of</hi> LONDON.</p>
+            <p>By theſe Letters it may appeare, that this Colledge is not an idle pro<g ref="char:EOLhyphen"/>ject of any private man, but a pious worke projected by the King &amp; State, and that all that profeſſe Religion, and deſire the continuance and advance<g ref="char:EOLhyphen"/>ment thereof, yea, all that honour his Majeſtie, and wiſh the proſperitie of the State, and deſire the increaſe of learning, have intereſt therein, and I hope ſhall receive contentment, and good ſatisfaction by the ſame.</p>
+            <p>Being then a worke of pietie for the maintenance of true Religion, who can be accounted truly pious &amp; religious, and yet yeeld no help to advance it? being a project to maintaine the honour of the State, what good ſubject will not contribute to ſet forward this project? but to touch only the point of Gods honour, let us remember the words of the Wiſe man, <hi>Prov.</hi> 3. <hi>Ho<g ref="char:EOLhyphen"/>nour the Lord with thy ſubſtance.</hi> Let us alſo conſider what the Lord himſelf ſaith, 1 <hi>Sam.</hi> 2. <hi>Them that honour me, I will honour; and they that deſpiſe me, ſhall be deſpiſed.</hi> Now who can ſay, he honoureth God that ſuffereth him by idolatry, ſuperſtition and blaſphemy to be diſhonoured, &amp; will give nothing to ſuppreſſe <hi>Baals</hi> Prieſts, and is content that the Pope be worſhipped like the Idoll <hi>Bell?</hi> can Gods honour ſtand with the ſuperſtition, hereſie, idola<g ref="char:EOLhyphen"/>try, and blaſphemy of Papiſts; prophaneſſe of Atheiſts, fanaticall doctrine of Schiſmatickes, and idle Noveliſts?</p>
+            <pb n="5" facs="tcp:113449:3"/>
+            <p>It is not ſufficient for true Chriſtians to profeſſe true Religion, but they muſt with zeal maintain it, &amp; with heart abhor, &amp; with hand ſuppreſſe ido<g ref="char:EOLhyphen"/>latry and ſuperſtition, <hi>Who will riſe up with me againſt the wicked,</hi> ſaith the Prophet, <hi>Pſal.</hi> 94. And <hi>Pſal.</hi> 139. he ſaith, <hi>He hated thoſe that hated the Lord with an unfained hatred.</hi> The Law <hi>Deut.</hi> 13. is direct againſt ſuch as intice us to ſerve other gods, our eye may not pitty them, nor may we ſhew mercy unto them, no although they be our brothers, or our wives that lye in our boſome.</p>
+            <p>An odious thing alſo it is, either to ſuffer truth to be ſuppreſſed, or lyes to be received. Saint <hi>Augustine in Epiſt. ad Caſulanum,</hi> ſaith, It is a fault to hide truth, as well as to tell lyes; <hi>Uterque reus eſt, &amp; qui veritatem occultat, &amp; qui mendacium dicit. Chryſoſtome Homil.</hi> 25. <hi>in Matth.</hi> doth charge him to be a Traytor unto Truth, that dare not boldly utter it or defend it; <hi>Non il<g ref="char:EOLhyphen"/>le ſolum est proditor veritatis qui veritatem tranſgrediens pro veritate mendaci<g ref="char:EOLhyphen"/>um loquitur, ſed etiam qui non liberè veritatem pronunciat quam pronuntiare tenetur, aut non liberè veritatem defendit quam liberè defendere conve<g ref="char:EOLhyphen"/>nit.</hi>
+            </p>
+            <p>Some ſuppoſe that Chriſtianitie and Poperie may ſtand together, and themſelves as Newters ſtand betweene both, or as Mediators would recon<g ref="char:EOLhyphen"/>cile both. But can Chriſt be reconciled to Anti-chriſt? there is no con<g ref="char:EOLhyphen"/>cord betwixt <hi>Chriſt</hi> and <hi>Belial,</hi> ſaith the Apoſtle, 2 <hi>Cor.</hi> 6. <hi>Elias</hi> told us there is no halting betweene two Religions: no man that honoureth any Creature can ſay he truely honoureth God, for God giveth not his honour to Creatures, <hi>Aſa</hi> 1 <hi>King.</hi> 15. was a good King, yet it is imputed to him that he tooke not downe the high places. The Biſhop of the Church of <hi>Per<g ref="char:EOLhyphen"/>gamus, Apocal.</hi> 2. is reproved for ſuffering them that taught the doctrine of <hi>Balaam;</hi> and the Biſhop of <hi>Thyatira,</hi> for permitting <hi>Jeſabel</hi> to teach and deceive the people; and ſhall the Church of <hi>England</hi> any longer ſuffer the <hi>Romiſh Balaamites,</hi> and the falſe Prieſts of <hi>Baal</hi> maintained by the <hi>Romiſh Jeſabel</hi> and her Conſorts to ſeduce Gods people? The falſe Prieſts of <hi>Bell</hi> uſed all art and cunning practices to deceive, and now will not ſuffer any religion but that of their god <hi>Bell;</hi> the Pope; and ſhall not true Chriſtians uſe equall diligence to maintaine truth, and ſuppreſſe Poperie and all other idolatrous and falſe Religion? <hi>Ingemui fateor</hi> (ſaith <hi>Hierome</hi>) <hi>minus nobis ineſſe voluntatis ad propugnandam veritatem, quam ineſſe illis cupiditatis ad in<g ref="char:EOLhyphen"/>culcandum mendacium:</hi> I ſighed (ſaith he) ſeeing leſſe deſire in us to defend truth, then in our adverſaries to maintaine lyes.</p>
+            <p>This Colledge then being erected for maintenance of truth and Gods true ſervice, and a reſolute oppoſition againſt errors and falſe worſhip of God, it cannot but pleaſe God and content godly men. The ſame will alſo
+<pb n="6" facs="tcp:113449:4"/>be a meanes to increaſe learning, and to ſupply the defects of places haunted with the ſpi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>its of Anti-chriſt, the Jeſuits, and Maſſe-prieſts, and therefore cannot chuſe but be well approved of all, that either deſire a learned Miniſterie, or love learning. Finally, ſeeing the Church hath re<g ref="char:EOLhyphen"/>ceived no greater diſhonour by any, then by unſufficient and unlearned Church-men, I hope this may bee a meanes to recover ſome part of their loſt honour.</p>
+            <p>Wherefore, whether we regard the ſervice of God, or the honour we owe to our King, or the love we beare to our Country and the State, let us not ſhew our ſelves ſparing or backward in yeelding our ayd to ſet for<g ref="char:EOLhyphen"/>ward a worke ſo religious and profitable for the Church, ſo honourable for the State, ſo neceſſarie in regard of the malice of our adverſaries, and the defects and diſcouragement of our owne forces. Other collecti<g ref="char:EOLhyphen"/>ons have beene either for private perſons or ſtrangers, or places remote, or matters concerning ſome particular occaſions. This concerneth a gene<g ref="char:EOLhyphen"/>rall good, and toucheth every man both in conſcience and honour. Here<g ref="char:EOLhyphen"/>tofore we have endeavoured to maintaine Religion, and favour others abroad, let us not therefore neglect our ſelves, and our owne honour, profit, and neceſſary ſervice at home. Neither let any man thinke it ſtrange, that a worke of ſuch greatneſſe ſhould be advanced by this weake meanes, or that a project ſo neceſſarie ſhould proceed ſo ſlowly. Almigh<g ref="char:EOLhyphen"/>ty God, albeit all ſufficient, yet would have his owne Tabernacle built by the voluntary offerings of his people. <hi>Speake,</hi> ſaith God to <hi>Moſes, Exod.</hi> 25. <hi>to the Children of Iſrael, that they receive an offering for me of every man whoſe heart giveth it freely.</hi> And <hi>Exod.</hi> 36. it followeth, and <hi>they brought ſtill unto Moſes free gifts every morning, and they ceaſed not untill they were ſtated from offering,</hi> King <hi>Solomon</hi> likewiſe was greatly holpen in the building of the Temple by the contribution of his Subjects, as appeareth by the words of Scriptures, 1 <hi>King.</hi> 9.19. further, by volun<g ref="char:EOLhyphen"/>tarie offerings and contributions, the Temple was repaired by <hi>Ioaſh,</hi> 2 <hi>King.</hi> 12. and by <hi>Ioſiah,</hi> 2. <hi>Chron.</hi> 34. and this hath beene the uſe and practice of ancient times in building, and endowing moſt famous Church<g ref="char:EOLhyphen"/>es, Colledges, Schooles and other monuments of Religion and Learning, both in our own and other Countries. Our Adverſaries by this courſe have had meanes to build many Monaſteries and Colledges, &amp; Schools for Je<g ref="char:EOLhyphen"/>ſuits &amp; Friets, as it were propugnacles of Superſtition, Hereſie, Idolatry, and Anti-chriſts tyranny, to uphold and make good their own corruptions in Religion, and uſurpations upon the Magiſtrates government, and everie Chriſtian mans liberty. And this have they done not only in <hi>Europe,</hi> but alſo
+<pb n="7" facs="tcp:113449:4"/>in the <hi>Indies,</hi> &amp; not one in every Kingdom, but in the ſame ſtate divers, and almoſt in every great Citie one. And ſhall not this flouriſhing Kingdome build and endow one Colledge for the maintenance of Gods true ſervice, and the honour of the whole State? It were a diſhonour to our Nation, and the whole Church and State to thinke contrary.</p>
+            <p>The worke we confeſſe hath hitherto proceeded ſlowly: And no mar<g ref="char:EOLhyphen"/>vell, ſeeing great workes are not eaſily atchieved. <hi>Noah's</hi> Arke, Gods Tabernacle and Temple, and famous Schooles and Colledges, albeit founded by Kings and great men, were long in building, and doe we wonder that this Colledge is not yet finiſhed? Further it pleaſed God to deprive us of Prince <hi>Henrie</hi> our principall hope, and the chiefe Author of this deſigne. Laſtly, who knoweth whether God hath appoynted theſe weake meanes to ſet forward a great worke, that his power in our weake<g ref="char:EOLhyphen"/>neſſe might have the whole glorie?</p>
+            <p>Let us therefore, good Country-men and Chriſtians, hearken willingly to his Majeſties motion and readily follow his example. Let it appeare by our bountie how zealous we are to maintaine his everlaſting Truth, and root out error and idolatrie. Let us by effects declare how ſtudious we are to doe good workes, and to advance our Countries honour. They that have much may give of their abun<g ref="char:EOLhyphen"/>dance: the reſt according to the meaſure of their meanes. God as well accepteth the Widdowes mite, and poore mans good will, as the rich mans treaſure.</p>
+            <p>If we honour God with our ſubſtance, he will honour us and encreaſe our ſubſtance. If we build a houſe for the maintenance of his truth, that it may continue to our poſteritie, God will uphold our houſes, reſtore to us, and double it to our poſteritie. <hi>Abraham</hi> by offering his ſon, was made a father of many ſons, yea of Nations. And <hi>Solomon</hi> that ſhewed his Royall magnificence in building God a Temple, in honour and riches paſſed all o<g ref="char:EOLhyphen"/>ther Kings. How then can vve excuſe our ſelves, if we denie God a ſmall offering, that dayly offereth to us many graces, and giveth us all the good things we poſſeſſe? Our ſoules and bodies are a ſacrifice due to him: and therefore no Chriſtian may denie to him an offring out of his worldly goods, if Gods ſervice require it.</p>
+            <p>As for thoſe that draw back in this ſervice, and refuſe to concur in pro<g ref="char:EOLhyphen"/>moting Gods honour, let them marke the words of our Saviour, <hi>Matth.</hi> 12. <hi>He that is not with me is againſt me.</hi> And the curſe of the Angell upon the people of <hi>Meros, Judg.</hi> 5. <hi>Curſe ye Meros,</hi> ſaith the Angell, <hi>for they came not up to helpe the Lord.</hi>
+            </p>
+            <pb n="8" facs="tcp:113449:5"/>
+            <p>But we hope we ſhall not need many word<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to move them, that alreadie are ſo well perſwaded, nor to perſwad<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> me<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in Religion and devot<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n are ſo forward. It is the dutie of good Chriſtians to advance Gods ho<g ref="char:EOLhyphen"/>nour, and repreſſe Superſtition, Hereſie, Idolatrie, Blaſphemie. It is the Office of good Subjects to defend the honour of the State, againſt the ſy<g ref="char:EOLhyphen"/>cophancies of Engliſh Fugitives, and the ſecret practices of forraine Ene<g ref="char:EOLhyphen"/>mies their adherents. The Adverſaries uſing all their skill, and joyning their forces againſt Religion and the State, it behoveth us likewiſe to unite our forces, and to joyne in conſultation how to reſiſt them. This common bu<g ref="char:EOLhyphen"/>ſineſſe requireth common helpe, the practices of the Adverſaries provoke us to uſe ſpeed, the qualitie of the worke being for defence of Religion and the State, will move any whoſe heart is not hardned, cheerfully to give. Whoſoever ſhall willingly give, ſhall receive of God a full reward in this life, and when they dye, their workes ſhall follow them, and then whatſo<g ref="char:EOLhyphen"/>ever they have given to God on earth, they ſhall aſſuredly find in Hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p>Wherefore recommending the Colledge of <hi>Chelſey</hi> to everie religious Chriſtians devout thoughts, we ceaſe further to preſſe them. Onely for ſa<g ref="char:EOLhyphen"/>tisfaction of thoſe that deſire to know why this Colledge is erected at <hi>Chelſey</hi> and not in one of the Univerſities, this we thought ſit to adde, that this place was thought moſt ſit to receive directions from our Superiours, to conſult with men of beſt experience, to obtain Intelligence from forrain parts, to print Books, &amp; to diſperſe them; And laſtly, to obtain the favour of the State and Citie. Further hereby, as all emulation may be avoyded, ſo the helpe of both Univerſities may as well be had by entercourſe of our A<g ref="char:EOLhyphen"/>gents, as if the Colledge ſtood in either of the Univerſities. Thus all things now ſtand. God bleſſe the proceeding of this worke, and give honour to his owne name, and a happie iſſue to this holy deſigne. <hi>Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
